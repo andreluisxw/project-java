@@ -18,8 +18,5 @@ public class MainCarro {
         System.out.println(obj2.exibeDados());
         obj2.acelerar(90);
         System.out.println(obj2.exibeDados());
-
-
-
     }
 }

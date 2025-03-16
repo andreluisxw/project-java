@@ -66,7 +66,7 @@ public class Carro {
    }
 
    public String exibeDados(){
-      return "================\nMarca: " + this.marca +
+      return "--------------------\nMarca: " + this.marca +
               "\n Modelo: " + this.modelo +
               "\n Ano: " + this.ano +
               "\n Velocidade: " + this.velocidade;
