@@ -70,6 +70,7 @@ public class ShoppingCart {
 
     public void addCarItem(int id, float quantity, Product product){
         this.carItens.add(new Caritem(id, quantity, product));
+        this.calculateFinalPrice();
     }
 
     public void calculateFinalPrice(){
@@ -79,6 +80,7 @@ public class ShoppingCart {
             soma += obj.getProduct().getPrice() * obj.getQuantity();
         }
         this.finalPrice = (float) soma;
+
     }
 
     public String toString() {
