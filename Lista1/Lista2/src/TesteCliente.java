@@ -7,7 +7,6 @@ public class TesteCliente {
         fulano.realizarSaque(200.0f);
         fulano.imprimirInformacoes();
 
-        // Tentativa de acesso direto (comentado, pois gera erro)
-        // System.out.println(fulano.numeroConta);
+
     }
 }

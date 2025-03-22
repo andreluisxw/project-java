@@ -6,7 +6,6 @@ public class TesteAluno {
         aluno.notaFinal();
         aluno.dadosAluno();
 
-        // Tentativa de acesso direto (comentado, pois gera erro)
-        // System.out.println(aluno.numeroAluno);
+
     }
 }
