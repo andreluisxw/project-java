@@ -1,18 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff10bd36-3c54-492b-953f-2212e50b4f86" name="Changes" comment="" />
+    <list default="true" id="ff10bd36-3c54-492b-953f-2212e50b4f86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lista3/src/exe0/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/Lista1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/Lista1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/Lista3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/MainCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/MainCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/TestaAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/TestaAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/TestaCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/TestaCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/TestaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/TestaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/TestaRio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/TestaRio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/exercicio0/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exercicio0/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/exercicio1/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exercicio1/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/exercicio2/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exercicio2/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/exercicio3/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exercicio3/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista1/src/exercicio4/Rio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exercicio4/Rio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista2/Lista2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/Lista2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista2/src/MainCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/MainCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista2/src/TesteAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/TesteAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista2/src/TesteCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/TesteCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista2/src/exe0/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/exe0/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista2/src/exe1/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/exe1/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/Lista2/src/exe2/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2/src/exe2/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/MainCarro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/TestaAluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/TestaCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/TestaProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/TestaRio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/exercicio0/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/exercicio1/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/exercicio2/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/exercicio3/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista1/exercicio4/Rio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista2/MainCarro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/out/production/Lista2/exe0/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/Lista3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe0/Caritem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/src/exe0/Caritem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe0/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/src/exe0/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe0/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/src/exe0/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe1/Emprestimo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe1/Estudante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe1/ItemEmprestimo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe1/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/src/exe1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/src/exe2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe2/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/src/exe2/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/exe2/Voo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/src/exe2/Voo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista3/src/lucidchart.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lista3/src/lucidchart.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista4/src/exe0/Estudante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista4/src/exe0/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/POO-JAVA.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2tNGAF3chtE7QpjyZaIbpesRi55" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,19 +94,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/1090482321037/Desktop/POO-JAVA",
+    "last_opened_file_path": "C:/Users/André Luis/Desktop/poo-20251n",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\aula_java\project-java" />
+      <recent name="C:\aula_java\project-java\Lista2\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
       </set>
     </attachedChunks>
   </component>
@@ -45,6 +133,9 @@
       <option name="presentableId" value="Default" />
       <updated>1740184974752</updated>
       <workItem from="1740184991201" duration="122000" />
+      <workItem from="1743561625126" duration="990000" />
+      <workItem from="1743562640514" duration="137000" />
+      <workItem from="1743562858756" duration="478000" />
     </task>
     <servers />
   </component>
