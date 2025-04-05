@@ -10,9 +10,7 @@ public class Aluno {
     //Variáveis classes
     public String nome;
 
-    public Aluno(){
-        this.nome = "Sem nome";
-    }
+    public Aluno(){this.nome = "Sem nome";}
 
     public Aluno(int numeroAluno, int idade, float p1, float p2, String nome) {
         this.numeroAluno = numeroAluno;
