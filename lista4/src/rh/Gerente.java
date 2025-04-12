@@ -4,7 +4,7 @@ public class Gerente extends Funcionario {
 
     private float bonus;
 
-    //cosntrutor sem parametros
+    //construtor sem parametros
     public Gerente(){
         super(); //chama o construtor VAZIO da superclasse ou classe pai
     }

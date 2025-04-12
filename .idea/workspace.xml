@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff10bd36-3c54-492b-953f-2212e50b4f86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lista4/lista4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio1/exercicio1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista1/src/exercicio1/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/exercicio1/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista4/src/rh/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista4/src/rh/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lista4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lista4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lista4/rh/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lista4/rh/Funcionario.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,25 +35,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/1090482321037/Desktop/project-java/lista4/src",
-    "last_opened_file_path": "C:/Users/1090482321037/Desktop/project-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/1090482321037/Desktop/project-java/exercicio1/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/1090482321037/Desktop/project-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\aula_java\project-java" />
@@ -78,7 +83,9 @@
       <workItem from="1743561625126" duration="990000" />
       <workItem from="1743562640514" duration="137000" />
       <workItem from="1743562858756" duration="478000" />
-      <workItem from="1743806298833" duration="6457000" />
+      <workItem from="1743806298833" duration="6537000" />
+      <workItem from="1744410468512" duration="5577000" />
+      <workItem from="1744418200043" duration="697000" />
     </task>
     <servers />
   </component>
